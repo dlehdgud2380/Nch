@@ -1,4 +1,4 @@
 gevent==1.4.0
 Flask-SocketIO==3.2.1
 pyOpenSSL==19.0.0
-Flask==1.0.2
+Flask==2.3.2
